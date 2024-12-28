@@ -1,5 +1,5 @@
 # Create Responsive Plants Website 🎍 
-## [Live Preview](https://amanayak.github.io/Create-Responsive-Plants-Website/)
+## [Live Preview](https://codinggujaratweb.github.io/Create-Responsive-Plants-Website/)
 ### Create Responsive Plants Website 🎍
 
 - Responsive Plants Website Using HTML, CSS and JavaScript.
